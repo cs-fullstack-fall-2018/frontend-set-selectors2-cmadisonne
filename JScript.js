@@ -34,3 +34,8 @@ var lastPTag = document.getElementsByTagName("p");
 for(var i=3; i<lastPTag.length; i++){
     lastPTag[i].style.color="yellow";
 }
+
+/*
+
+All correct. From Kenn
+*/
